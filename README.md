@@ -1,2 +1,2 @@
-# NG-RedditClone
-Angular Demo App -> Social Bookmarking Site
+#Angular Demo App
+###Social Bookmarking Site Angular Walkthrough
